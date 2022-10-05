@@ -1,2 +1,3 @@
-# VietQA
-Training a Question-Answering net in Vietnamese
+# VietQ
+Training a Question-Answering net using PubMed dataset
+
